@@ -1,7 +1,4 @@
 ; ***********************************
-
-; Ranishka Fernando #101063607 LAB2 Part 2
-
 ; First, some assembler directives that tell the assembler:
 ; - assume a small code space
 ; - use a 100h size stack (a type of temporary storage)
